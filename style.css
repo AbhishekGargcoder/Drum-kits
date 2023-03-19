@@ -1,0 +1,61 @@
+body {
+    background-color: #002B5B;
+    color: #FFFBEB;
+}
+
+#title {
+    height: 200px;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    font-size: 4rem;
+    display: block;
+    line-height: 200px;
+}
+
+.drum {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    background-color: white;
+    font-size: 5rem;
+    margin: 10px 10px 0px 0px;
+    border-width: 10px;
+    border-radius: 21px;
+    border-color:rgb(1 5 10);/*rgb(12 20 30);*/
+    color:#E90064;
+    text-shadow: white 1px 0px;
+}
+
+.set {
+    width: 1150px;
+    margin: auto;
+}
+.w{
+    background-image: url("style/drum-w.png");
+}
+.a{
+    background-image: url("style/drum-a.png");
+}
+.s{
+    background-image: url("style/drum-s.jpeg");
+}
+.d{
+    background-image: url("style/drum-d.jpeg");
+}
+.j{
+    background-image: url("style/drum-j.jpeg");
+}
+.k{
+    background-image: url("style/drum-k.jpeg");
+}
+.l{
+    background-image: url("style/drum-l.jpeg");
+}
+#foot{
+    display: inline-block;
+    margin: 100px 586px;
+}
+.red{
+    background: red;
+}
