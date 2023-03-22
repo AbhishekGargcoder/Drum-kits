@@ -1,13 +1,11 @@
 body {
     background-color: #002B5B;
     color: #FFFBEB;
-    width: 1150px;
 }
 #web{
     width : 1150px;
     margin : auto;
-}
-    
+}    
 #title {
     height: 200px;
     margin: auto;
