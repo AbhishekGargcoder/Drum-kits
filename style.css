@@ -56,8 +56,9 @@ body {
     background-image: url("style/drum-l.jpeg");
 }
 #foot{
-    display: inline-block;
-    margin: 100px 586px;
+    width:100%;
+    padding-top: 180px;
+    text-align : center;
 }
 .red{
     background: red;
